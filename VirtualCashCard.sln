@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCashCard.Logic", "VirtualCashCard.Logic\VirtualCashCard.Logic.csproj", "{D05CC7FA-FB3D-41C4-8FBB-3D878E8E4CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualCashCard.Tests", "VirtualCashCard.Tests\VirtualCashCard.Tests.csproj", "{E917C455-DD07-4678-BA80-8FF4A9DB5700}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{D9889278-FD5F-436C-8BE7-86861ACE27FF}"
+	ProjectSection(SolutionItems) = preProject
+		Virtual Cash Card.docx = Virtual Cash Card.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05CC7FA-FB3D-41C4-8FBB-3D878E8E4CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05CC7FA-FB3D-41C4-8FBB-3D878E8E4CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05CC7FA-FB3D-41C4-8FBB-3D878E8E4CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05CC7FA-FB3D-41C4-8FBB-3D878E8E4CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E917C455-DD07-4678-BA80-8FF4A9DB5700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E917C455-DD07-4678-BA80-8FF4A9DB5700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E917C455-DD07-4678-BA80-8FF4A9DB5700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E917C455-DD07-4678-BA80-8FF4A9DB5700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
